@@ -1,0 +1,1 @@
+# BasePHP-Classe_Objet_Encapsulation
